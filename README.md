@@ -133,7 +133,7 @@ Crear los métodos que retornarán los atributos (datos del profesor)
 
 
 ## Paso 9:
-Para probar nuestro código creamos una clase donde lo ejecutaremos ´HerenciaTest´
+Para probar nuestro código creamos una clase donde lo ejecutaremos **HerenciaTest**.
 
 <pre><code> 
   
@@ -152,7 +152,7 @@ Las instancias son la materialización de una clase, es decir, son objetos concr
 
 
 ## Paso 10:
-Determinamos el valor que le daremos al ID del profesor, con la instancia ya realizada anteriormente y el método ´SetIdProfesor´.
+Determinamos el valor que le daremos al ID del profesor, con la instancia ya realizada anteriormente y el método **SetIdProfesor**.
 <pre><code> 
               profesor1.setIdProfesor("2130056");
 
@@ -160,7 +160,7 @@ Determinamos el valor que le daremos al ID del profesor, con la instancia ya rea
 
 
 
-## Paso 10:
+## Paso 11:
 Ejecutamos la instancia a través del método **mostrarNombreApellidosID()**
 <pre><code> 
             profesor1.mostrarNombreApellidosID();}
@@ -170,5 +170,11 @@ Ejecutamos la instancia a través del método **mostrarNombreApellidosID()**
 </code></pre>
 
 
+## Paso 12:
+Probar el código desde **HerenciaTest**.
 
+En la terminal nos saldrán los datos que habíamos establecido desde la clase hija, usando los parámetros de la clase padre.
+
+
+<img width="650" alt="Captura de pantalla 2023-08-21 221415" src="https://github.com/Daniela-Mallozzi/Manual-de-practica-herencia-simple/assets/92596638/682e34c6-fd61-43bd-95a9-5b8fbc850630">
 
